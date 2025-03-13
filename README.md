@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer student from Sweden.</h3>
 
 - 🔭 Check out our [path-validator-cli](https://github.com/Skjesper/path-validator-cli)
+- [NPM link for path-validator-cli](https://www.npmjs.com/package/path-validator-cli)
+
+- Link to our npm package 
 
 - 🌱 I’m currently learning **Laravel, Node.js, JavaScript, c# and React.**
 
