@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesper Skeppstedt</h1>
 <h3 align="center">Full Stack Developer student from Sweden.</h3>
 
-- 🔭 I’m currently working on [path-validator-cli](https://github.com/maxjvjohansson/path-validator-cli)
+- 🔭 Check out our [path-validator-cli](https://github.com/Skjesper/path-validator-cli)
 
-- 🌱 I’m currently learning **Laravel, Node.js, JavaScript and C#.**
+- 🌱 I’m currently learning **Laravel, Node.js, JavaScript, c# and React.**
 
 - 🤝 I’m looking for **Internship between Dec 2025 - May 2026**
 
