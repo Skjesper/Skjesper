@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, Node.js, JavaScript, c# and React.**
 
-- 🤝 I’m looking for **Internship between Dec 2025 - May 2026**
+- 🤝 I’m looking for **Internship between 24 november 2025 - 29 maj 2026**
 
 - 📫 How to reach me **Jesperskeppstedt@gmail.com**
 
