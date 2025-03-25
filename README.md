@@ -5,7 +5,7 @@
 
 - [NPM link for path-validator-cli](https://www.npmjs.com/package/path-validator-cli)
 
-- 🌱 I’m currently learning **Laravel, Node.js, JavaScript, c# and React.**
+- 🌱 I’m currently learning **Laravel, Node.js, Next.Js JavaScript, c# and React.**
 
 - 🤝 I’m looking for **Internship between 24 november 2025 - 29 maj 2026**
 
