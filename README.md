@@ -5,15 +5,15 @@
 
 - [NPM link for path-validator-cli](https://www.npmjs.com/package/path-validator-cli)
 
-- 🌱 I’m currently learning **Laravel, Node.js, Next.Js JavaScript, c# and React.**
+- I’m currently learning **Laravel, Node.js, Next.Js JavaScript, c# and React.**
 
-- 🤝 I’m doing my **Internship between 24 november 2025 - 29 maj 2026 at Grebban in Gothenburg as a frontend developer**
+- I’m doing my **Internship between 24 november 2025 - 29 maj 2026 at Grebban in Gothenburg as a frontend developer**
 
-- 📫 How to reach me **Jesperskeppstedt@gmail.com**
+- How to reach me **Jesperskeppstedt@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jesperskeppstedt/](https://www.linkedin.com/in/jesperskeppstedt/)
+- Know about my experiences [https://www.linkedin.com/in/jesperskeppstedt/](https://www.linkedin.com/in/jesperskeppstedt/)
 
-- ⚡ Fun fact **Got second place in the swedish latte art championship.**
+- Fun fact **Got second place in the swedish latte art championship.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
