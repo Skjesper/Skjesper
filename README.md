@@ -7,7 +7,7 @@
 
 - I’m currently learning **Laravel, Node.js, Next.Js JavaScript, c# and React.**
 
-- I’m doing my **Internship between 24 november 2025 - 29 maj 2026 at Grebban in Gothenburg as a frontend developer**
+- I’m doing my **Internship between 24 of november 2025 - 29 of may 2026 at Grebban in Gothenburg as a frontend developer**
 
 - How to reach me **Jesperskeppstedt@gmail.com**
 
