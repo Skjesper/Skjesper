@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jesper Skeppstedt</h1>
 <h3 align="center">Full Stack Developer student from Sweden.</h3>
 
-- 🔭 Check out our [path-validator-cli](https://github.com/Skjesper/path-validator-cli)
+- Check out our [path-validator-cli](https://github.com/Skjesper/path-validator-cli)
 
 - [NPM link for path-validator-cli](https://www.npmjs.com/package/path-validator-cli)
 
